@@ -1,0 +1,8 @@
+{
+  "name": "Carthage Coach Manager",
+  "description": "A comprehensive management tool for personal coaches in Tunisia to track client progress, payments, and schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
